@@ -11,8 +11,8 @@ import random
 import matplotlib.pyplot as plt
 import time
 
-TOKEN = "vk1.a.i45ijVNBtDAeu7NhrHS6ClLltgQWbWFVUi0Gvs8U1Eeh2wppBAT1hcXwIx0F16CfUCgGIoJCPIHYi26SqcvNtDmyw6a1Hpqrtf48zU6r_K86LhX0H_39FluXjB9UITcWMkME-kwM7Ghfus5655tgSpmkYZ_rVGYc0JSdLxXU4Q3_IR2QmlhuoqN0iuSLaxQZuPoHSxQOBDLOaEI9BggGMg"
-GROUP_ID = 237328793
+TOKEN = "***"
+GROUP_ID = ***
 
 database.init_db()
 scheduler.start_scheduler()
