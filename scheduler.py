@@ -7,8 +7,7 @@ import json
 from vk_api import VkApi
 from vk_api.utils import get_random_id
 
-TOKEN = "vk1.a.i45ijVNBtDAeu7NhrHS6ClLltgQWbWFVUi0Gvs8U1Eeh2wppBAT1hcXwIx0F16CfUCgGIoJCPIHYi26SqcvNtDmyw6a1Hpqrtf48zU6r_K86LhX0H_39FluXjB9UITcWMkME-kwM7Ghfus5655tgSpmkYZ_rVGYc0JSdLxXU4Q3_IR2QmlhuoqN0iuSLaxQZuPoHSxQOBDLOaEI9BggGMg"
-
+TOKEN = "***"
 vk_session = VkApi(token=TOKEN)
 vk = vk_session.get_api()
 
